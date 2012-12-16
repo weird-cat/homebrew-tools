@@ -1,6 +1,6 @@
 # Homebrew-tools
 
-# Installation
+## Installation
 
 Setup the tap:
 
