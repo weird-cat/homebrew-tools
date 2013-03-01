@@ -1,0 +1,1 @@
+{"name":"Weird.cat homebrew tools","tagline":"","body":"# Homebrew-tools\r\n\r\n## Installation\r\n\r\nSetup the tap:\r\n\r\n    $ brew tap weird-cat/tools\r\n\r\nInstall dtrx:\r\n\r\n    $ brew install dtrx\r\n\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
